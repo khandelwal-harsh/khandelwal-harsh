@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-- Data Scientist
 - 🔭 I’m currently working on Machine Learning and Deep learning
 - 🌱 I’m currently learning Software developement
 - 👯 I’m looking to collaborate on ...
