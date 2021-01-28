@@ -4,7 +4,7 @@
 
 ### About me
 - 🔭 I’m currently working on Machine Learning and Deep learning.
-- 🌱 I’m currently learning Software developement.
+- 🌱 I’m currently learning Software developement and DevOps
 
 <!--
 **khandelwal-harsh/khandelwal-harsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
