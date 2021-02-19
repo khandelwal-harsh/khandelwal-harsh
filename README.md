@@ -1,6 +1,6 @@
 ### Hi there,I'm Harsh 👋
 
-### Data scientist and Data oriented person 🕶
+### Software Engineer and Data oriented person 🕶
 
 ### About me
 - 🔭 I’m currently working on Machine Learning and Deep learning.
